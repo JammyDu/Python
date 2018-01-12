@@ -1,0 +1,5 @@
+2018-01-11 12:20:42,172 - C:/Users/Ulrica/PycharmProjects/dayinlog/test/printdemo.py - DEBUG - 打开浏览器
+2018-01-11 12:20:43,395 - C:/Users/Ulrica/PycharmProjects/dayinlog/test/printdemo.py - WARNING - 最大化浏览器
+2018-01-11 12:20:47,357 - C:/Users/Ulrica/PycharmProjects/dayinlog/test/printdemo.py - WARNING - 打开百度首页
+2018-01-11 12:20:48,533 - C:/Users/Ulrica/PycharmProjects/dayinlog/test/printdemo.py - WARNING - 暂停一秒
+2018-01-11 12:20:51,762 - C:/Users/Ulrica/PycharmProjects/dayinlog/test/printdemo.py - WARNING - 关闭浏览器
